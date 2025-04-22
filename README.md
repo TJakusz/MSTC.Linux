@@ -1,1 +1,1 @@
-This is a quic test using an inline edit using GitHub.
+This is a quick test using an inline edit using GitHub.
